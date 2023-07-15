@@ -1,0 +1,1153 @@
+
+2023-07-13 13:31:12,133 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 13:31:35,240 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 13:31:48,878 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 13:32:08,063 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 14:23:42,571 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 14:23:42,976 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 14:23:43,485 - DEBUG - Путь в норме
+2023-07-13 14:23:43,989 - DEBUG - Кол-во почт в программе: 0
+2023-07-13 14:23:44,491 - DEBUG - Кол-во имен в session_names: 11
+2023-07-13 14:27:45,266 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 14:27:45,667 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 14:27:46,176 - DEBUG - Путь в норме
+2023-07-13 14:27:46,685 - DEBUG - Кол-во почт в программе: 26
+2023-07-13 14:27:47,186 - DEBUG - Кол-во имен в session_names: 26
+2023-07-13 14:27:52,032 - DEBUG - Start work
+2023-07-13 14:31:06,127 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 14:31:06,501 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 14:31:07,012 - DEBUG - Путь в норме
+2023-07-13 14:31:07,522 - DEBUG - Кол-во почт в программе: 26
+2023-07-13 14:31:08,023 - DEBUG - Кол-во имен в session_names: 26
+2023-07-13 14:31:09,897 - DEBUG - Start work
+2023-07-13 14:31:09,904 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 14:31:10,441 - DEBUG - use config_browser
+2023-07-13 14:31:10,442 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 14:31:11,730 - DEBUG - proxy is valid
+2023-07-13 14:31:23,573 - DEBUG - 204
+2023-07-13 14:31:37,020 - DEBUG - 204
+2023-07-13 14:35:08,448 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 14:35:41,642 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 14:35:42,151 - DEBUG - Путь в норме
+2023-07-13 14:35:42,659 - DEBUG - Кол-во почт в программе: 25
+2023-07-13 14:35:43,160 - DEBUG - Кол-во имен в session_names: 26
+2023-07-13 14:36:28,343 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 14:36:32,506 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 14:36:33,018 - DEBUG - Путь в норме
+2023-07-13 14:36:33,525 - DEBUG - Кол-во почт в программе: 26
+2023-07-13 14:36:34,026 - DEBUG - Кол-во имен в session_names: 26
+2023-07-13 14:36:36,341 - DEBUG - Start work
+2023-07-13 14:36:48,113 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 14:36:48,644 - DEBUG - use config_browser
+2023-07-13 14:36:48,645 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 14:36:49,877 - DEBUG - proxy is valid
+2023-07-13 14:37:01,728 - DEBUG - 204
+2023-07-13 14:37:15,409 - DEBUG - 204
+2023-07-13 15:12:33,589 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 15:12:34,105 - DEBUG - Путь в норме
+2023-07-13 15:12:34,610 - DEBUG - Кол-во почт в программе: 25
+2023-07-13 15:12:35,112 - DEBUG - Кол-во имен в session_names: 25
+2023-07-13 15:12:38,519 - DEBUG - Start work
+2023-07-13 15:12:48,134 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 15:12:48,659 - DEBUG - use config_browser
+2023-07-13 15:12:48,659 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 15:12:50,708 - DEBUG - proxy is valid
+2023-07-13 15:13:02,290 - DEBUG - 204
+2023-07-13 15:13:16,818 - DEBUG - 204
+2023-07-13 15:34:13,217 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 15:34:13,726 - DEBUG - Путь в норме
+2023-07-13 15:34:14,233 - DEBUG - Кол-во почт в программе: 24
+2023-07-13 15:34:14,734 - DEBUG - Кол-во имен в session_names: 24
+2023-07-13 15:34:16,510 - DEBUG - Start work
+2023-07-13 15:34:16,517 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 15:34:17,037 - DEBUG - use config_browser
+2023-07-13 15:34:17,038 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 15:34:22,571 - DEBUG - proxy is valid
+2023-07-13 15:34:38,764 - DEBUG - 204
+2023-07-13 15:34:57,637 - DEBUG - 204
+2023-07-13 15:38:07,547 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 15:38:15,861 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 15:38:16,372 - DEBUG - Путь в норме
+2023-07-13 15:38:16,878 - DEBUG - Кол-во почт в программе: 23
+2023-07-13 15:38:17,379 - DEBUG - Кол-во имен в session_names: 23
+2023-07-13 15:38:18,998 - DEBUG - Start work
+2023-07-13 15:38:19,006 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 15:38:19,537 - DEBUG - use config_browser
+2023-07-13 15:38:19,537 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 15:38:20,825 - DEBUG - proxy is valid
+2023-07-13 15:38:32,600 - DEBUG - 204
+2023-07-13 15:38:46,350 - DEBUG - 204
+2023-07-13 16:00:14,076 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 16:00:14,583 - DEBUG - Путь в норме
+2023-07-13 16:00:15,086 - DEBUG - Кол-во почт в программе: 22
+2023-07-13 16:00:15,591 - DEBUG - Кол-во имен в session_names: 22
+2023-07-13 16:00:18,140 - DEBUG - Start work
+2023-07-13 16:00:18,155 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 16:00:18,715 - DEBUG - use config_browser
+2023-07-13 16:00:18,715 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 16:00:20,234 - DEBUG - proxy is valid
+2023-07-13 16:00:32,445 - DEBUG - 204
+2023-07-13 16:00:47,087 - DEBUG - 204
+2023-07-13 17:06:51,412 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 17:06:58,736 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 17:06:59,251 - DEBUG - Путь в норме
+2023-07-13 17:06:59,763 - DEBUG - Кол-во почт в программе: 21
+2023-07-13 17:07:00,264 - DEBUG - Кол-во имен в session_names: 21
+2023-07-13 17:07:01,972 - DEBUG - Start work
+2023-07-13 17:07:08,312 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 17:07:08,829 - DEBUG - Путь в норме
+2023-07-13 17:07:09,339 - DEBUG - Кол-во почт в программе: 21
+2023-07-13 17:07:09,842 - DEBUG - Кол-во имен в session_names: 21
+2023-07-13 17:07:11,433 - DEBUG - Start work
+2023-07-13 17:07:24,005 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 17:07:24,516 - DEBUG - Путь в норме
+2023-07-13 17:07:25,030 - DEBUG - Кол-во почт в программе: 21
+2023-07-13 17:07:25,536 - DEBUG - Кол-во имен в session_names: 21
+2023-07-13 17:07:27,690 - DEBUG - Start work
+2023-07-13 17:07:39,122 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 17:07:39,650 - DEBUG - use config_browser
+2023-07-13 17:07:39,650 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 17:07:41,262 - DEBUG - proxy is valid
+2023-07-13 17:08:14,320 - DEBUG - 204
+2023-07-13 17:08:28,484 - DEBUG - 204
+2023-07-13 17:22:27,236 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 17:22:33,376 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 17:22:33,897 - DEBUG - Путь в норме
+2023-07-13 17:22:34,400 - DEBUG - Кол-во почт в программе: 20
+2023-07-13 17:22:34,906 - DEBUG - Кол-во имен в session_names: 20
+2023-07-13 17:22:37,589 - DEBUG - Start work
+2023-07-13 17:22:57,524 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 17:22:58,048 - DEBUG - use config_browser
+2023-07-13 17:22:58,048 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 17:22:59,298 - DEBUG - proxy is valid
+2023-07-13 17:23:11,390 - DEBUG - 204
+2023-07-13 17:23:25,656 - DEBUG - 204
+2023-07-13 17:29:34,612 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 17:31:28,889 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 17:31:29,241 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 17:31:29,753 - DEBUG - Путь в норме
+2023-07-13 17:31:30,258 - DEBUG - Кол-во почт в программе: 19
+2023-07-13 17:31:30,759 - DEBUG - Кол-во имен в session_names: 19
+2023-07-13 17:31:38,914 - DEBUG - Start work
+2023-07-13 17:31:38,925 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 17:31:39,451 - DEBUG - use config_browser
+2023-07-13 17:31:39,451 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 17:31:40,457 - DEBUG - proxy is valid
+2023-07-13 17:31:52,106 - DEBUG - 204
+2023-07-13 17:32:06,606 - DEBUG - 204
+2023-07-13 17:34:32,769 - DEBUG - 400
+2023-07-13 17:35:39,600 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 17:35:39,982 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 17:35:40,500 - DEBUG - Путь в норме
+2023-07-13 17:35:41,022 - DEBUG - Кол-во почт в программе: 18
+2023-07-13 17:35:41,524 - DEBUG - Кол-во имен в session_names: 18
+2023-07-13 17:35:44,601 - DEBUG - Start work
+2023-07-13 17:35:44,612 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 17:35:45,133 - DEBUG - use config_browser
+2023-07-13 17:35:45,133 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 17:35:46,367 - DEBUG - proxy is valid
+2023-07-13 17:35:58,107 - DEBUG - 204
+2023-07-13 17:36:11,827 - DEBUG - 204
+2023-07-13 17:38:48,854 - DEBUG - 400
+2023-07-13 17:38:50,087 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 17:38:50,614 - DEBUG - use config_browser
+2023-07-13 17:38:50,614 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 17:38:53,161 - DEBUG - proxy is valid
+2023-07-13 17:39:05,852 - DEBUG - 204
+2023-07-13 17:39:19,540 - DEBUG - 204
+2023-07-13 17:40:35,087 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 17:40:35,616 - DEBUG - use config_browser
+2023-07-13 17:40:35,616 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 17:40:36,950 - DEBUG - proxy is valid
+2023-07-13 17:40:48,920 - DEBUG - 204
+2023-07-13 17:41:02,222 - DEBUG - 204
+2023-07-13 17:43:31,674 - DEBUG - 400
+2023-07-13 17:43:32,857 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 17:43:33,377 - DEBUG - use config_browser
+2023-07-13 17:43:33,377 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 17:43:36,891 - DEBUG - proxy is valid
+2023-07-13 17:43:49,299 - DEBUG - 204
+2023-07-13 17:44:04,960 - DEBUG - 204
+2023-07-13 17:45:34,479 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 17:45:34,998 - DEBUG - use config_browser
+2023-07-13 17:45:34,998 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 17:45:36,467 - DEBUG - proxy is valid
+2023-07-13 17:45:48,928 - DEBUG - 204
+2023-07-13 17:46:03,996 - DEBUG - 204
+2023-07-13 17:48:57,901 - DEBUG - 400
+2023-07-13 17:48:59,048 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 17:48:59,568 - DEBUG - use config_browser
+2023-07-13 17:48:59,569 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 17:49:01,543 - DEBUG - proxy is valid
+2023-07-13 17:49:13,855 - DEBUG - 204
+2023-07-13 17:53:02,523 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 17:53:02,859 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 17:53:03,367 - DEBUG - Путь в норме
+2023-07-13 17:53:03,873 - DEBUG - Кол-во почт в программе: 12
+2023-07-13 17:53:04,374 - DEBUG - Кол-во имен в session_names: 12
+2023-07-13 17:53:06,620 - DEBUG - Start work
+2023-07-13 17:53:06,628 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 17:53:07,149 - DEBUG - use config_browser
+2023-07-13 17:53:07,149 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 17:53:08,410 - DEBUG - proxy is valid
+2023-07-13 17:53:20,089 - DEBUG - 204
+2023-07-13 17:53:33,176 - DEBUG - 204
+2023-07-13 17:55:49,912 - DEBUG - 400
+2023-07-13 17:55:51,020 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 17:55:51,553 - DEBUG - use config_browser
+2023-07-13 17:55:51,554 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 17:55:53,426 - DEBUG - proxy is valid
+2023-07-13 17:58:04,459 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 17:58:04,835 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 17:58:05,356 - DEBUG - Путь в норме
+2023-07-13 17:58:05,862 - DEBUG - Кол-во почт в программе: 10
+2023-07-13 17:58:06,362 - DEBUG - Кол-во имен в session_names: 10
+2023-07-13 17:58:25,271 - DEBUG - Start work
+2023-07-13 17:58:25,298 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 17:58:25,824 - DEBUG - use config_browser
+2023-07-13 17:58:25,825 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 17:58:27,099 - DEBUG - proxy is valid
+2023-07-13 17:58:38,951 - DEBUG - 204
+2023-07-13 17:58:52,389 - DEBUG - 204
+2023-07-13 18:00:08,919 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 18:00:09,469 - DEBUG - use config_browser
+2023-07-13 18:00:09,469 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 18:00:10,842 - DEBUG - proxy is valid
+2023-07-13 18:00:23,057 - DEBUG - 204
+2023-07-13 18:01:01,204 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-13 18:01:01,550 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 18:01:02,058 - DEBUG - Путь в норме
+2023-07-13 18:01:02,577 - DEBUG - Кол-во почт в программе: 8
+2023-07-13 18:01:03,078 - DEBUG - Кол-во имен в session_names: 8
+2023-07-13 18:01:09,203 - DEBUG - Start work
+2023-07-13 18:01:09,213 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 18:01:09,733 - DEBUG - use config_browser
+2023-07-13 18:01:09,733 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 18:01:10,649 - DEBUG - proxy is valid
+2023-07-13 18:01:22,304 - DEBUG - 204
+2023-07-13 18:01:37,289 - DEBUG - 204
+2023-07-13 18:04:17,053 - DEBUG - 204
+2023-07-13 18:04:18,231 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 18:04:18,748 - DEBUG - use config_browser
+2023-07-13 18:04:18,748 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 18:04:19,777 - DEBUG - proxy is valid
+2023-07-13 18:04:31,479 - DEBUG - 204
+2023-07-13 19:13:52,776 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-13 19:13:53,344 - DEBUG - Путь в норме
+2023-07-13 19:13:53,848 - DEBUG - Кол-во почт в программе: 6
+2023-07-13 19:13:54,357 - DEBUG - Кол-во имен в session_names: 6
+2023-07-13 19:13:55,877 - DEBUG - Start work
+2023-07-13 19:14:03,323 - DEBUG - Подключение к порту 34999 установлено
+2023-07-13 19:14:03,877 - DEBUG - use config_browser
+2023-07-13 19:14:03,888 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-13 19:14:05,289 - DEBUG - proxy is valid
+2023-07-13 19:14:17,060 - DEBUG - 204
+2023-07-13 19:14:30,705 - DEBUG - 204
+2023-07-14 08:08:50,145 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 08:09:48,820 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 08:09:52,614 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 08:09:53,123 - DEBUG - Путь в норме
+2023-07-14 08:09:53,640 - DEBUG - Кол-во почт в программе: 5
+2023-07-14 08:09:54,150 - DEBUG - Кол-во имен в session_names: 5
+2023-07-14 08:09:56,817 - DEBUG - Start work
+2023-07-14 08:09:56,828 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 08:09:57,367 - DEBUG - use config_browser
+2023-07-14 08:09:57,368 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 08:09:59,117 - DEBUG - proxy is valid
+2023-07-14 08:10:11,631 - DEBUG - 204
+2023-07-14 08:10:26,948 - DEBUG - 204
+2023-07-14 08:16:47,578 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 08:17:00,248 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 08:17:00,761 - DEBUG - Путь в норме
+2023-07-14 08:17:01,270 - DEBUG - Кол-во почт в программе: 4
+2023-07-14 08:17:01,771 - DEBUG - Кол-во имен в session_names: 4
+2023-07-14 08:17:04,088 - DEBUG - Start work
+2023-07-14 08:17:04,121 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 08:17:04,651 - DEBUG - use config_browser
+2023-07-14 08:17:04,651 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 08:17:06,225 - DEBUG - proxy is valid
+2023-07-14 08:17:18,414 - DEBUG - 204
+2023-07-14 08:17:32,999 - DEBUG - 204
+2023-07-14 08:23:11,472 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 08:23:12,286 - DEBUG - Путь в норме
+2023-07-14 08:23:12,788 - DEBUG - Кол-во почт в программе: 3
+2023-07-14 08:23:13,296 - DEBUG - Кол-во имен в session_names: 3
+2023-07-14 08:23:15,283 - DEBUG - Start work
+2023-07-14 08:23:29,147 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 08:23:29,668 - DEBUG - use config_browser
+2023-07-14 08:23:29,668 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 08:23:39,744 - DEBUG - invalid proxy
+2023-07-14 08:23:40,744 - DEBUG - proxy is valid
+2023-07-14 08:23:52,403 - DEBUG - 204
+2023-07-14 08:24:06,775 - DEBUG - 204
+2023-07-14 08:32:16,200 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 08:32:19,596 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 08:32:20,106 - DEBUG - Путь в норме
+2023-07-14 08:32:20,611 - DEBUG - Кол-во почт в программе: 2
+2023-07-14 08:32:21,112 - DEBUG - Кол-во имен в session_names: 2
+2023-07-14 08:32:22,864 - DEBUG - Start work
+2023-07-14 08:32:22,871 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 08:32:23,407 - DEBUG - use config_browser
+2023-07-14 08:32:23,408 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 08:32:25,046 - DEBUG - proxy is valid
+2023-07-14 08:32:36,922 - DEBUG - 204
+2023-07-14 08:32:51,325 - DEBUG - 204
+2023-07-14 08:38:09,677 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 08:38:12,628 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 08:38:13,135 - DEBUG - Путь в норме
+2023-07-14 08:38:13,639 - DEBUG - Кол-во почт в программе: 1
+2023-07-14 08:38:14,141 - DEBUG - Кол-во имен в session_names: 1
+2023-07-14 08:38:17,421 - DEBUG - Start work
+2023-07-14 08:38:17,428 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 08:38:17,947 - DEBUG - use config_browser
+2023-07-14 08:38:17,947 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 08:38:19,589 - DEBUG - proxy is valid
+2023-07-14 08:38:31,835 - DEBUG - 204
+2023-07-14 08:38:46,479 - DEBUG - 204
+2023-07-14 08:43:22,101 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 08:43:40,351 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 08:43:44,981 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 08:43:45,489 - DEBUG - Путь в норме
+2023-07-14 08:43:45,993 - DEBUG - Кол-во почт в программе: 0
+2023-07-14 08:43:46,494 - DEBUG - Кол-во имен в session_names: 1
+2023-07-14 08:47:50,407 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 08:47:54,422 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 08:47:54,936 - DEBUG - Путь в норме
+2023-07-14 08:47:55,447 - DEBUG - Кол-во почт в программе: 45
+2023-07-14 08:47:55,950 - DEBUG - Кол-во имен в session_names: 45
+2023-07-14 08:48:01,547 - DEBUG - Start work
+2023-07-14 08:48:01,570 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 08:48:02,111 - DEBUG - use config_browser
+2023-07-14 08:48:02,112 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 08:48:03,372 - DEBUG - proxy is valid
+2023-07-14 08:48:15,265 - DEBUG - 204
+2023-07-14 08:48:29,628 - DEBUG - 204
+2023-07-14 08:51:06,988 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 08:51:11,165 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 08:51:11,679 - DEBUG - Путь в норме
+2023-07-14 08:51:12,194 - DEBUG - Кол-во почт в программе: 44
+2023-07-14 08:51:12,695 - DEBUG - Кол-во имен в session_names: 44
+2023-07-14 08:51:15,716 - DEBUG - Start work
+2023-07-14 08:51:15,722 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 08:51:16,249 - DEBUG - use config_browser
+2023-07-14 08:51:16,250 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 08:51:18,056 - DEBUG - proxy is valid
+2023-07-14 08:51:30,247 - DEBUG - 204
+2023-07-14 08:51:34,694 - DEBUG - 'value'
+2023-07-14 08:52:36,011 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 08:52:39,549 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 08:52:40,070 - DEBUG - Путь в норме
+2023-07-14 08:52:40,589 - DEBUG - Кол-во почт в программе: 43
+2023-07-14 08:52:41,091 - DEBUG - Кол-во имен в session_names: 43
+2023-07-14 08:52:43,668 - DEBUG - Start work
+2023-07-14 08:52:43,684 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 08:52:44,229 - DEBUG - use config_browser
+2023-07-14 08:52:44,229 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 08:52:47,033 - DEBUG - proxy is valid
+2023-07-14 08:52:59,842 - DEBUG - 204
+2023-07-14 08:53:15,252 - DEBUG - 204
+2023-07-14 08:56:24,371 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 08:56:33,180 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 08:56:33,694 - DEBUG - Путь в норме
+2023-07-14 08:56:34,202 - DEBUG - Кол-во почт в программе: 42
+2023-07-14 08:56:34,703 - DEBUG - Кол-во имен в session_names: 42
+2023-07-14 08:56:58,628 - DEBUG - Start work
+2023-07-14 08:56:58,636 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 08:56:59,175 - DEBUG - use config_browser
+2023-07-14 08:56:59,175 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 08:57:09,399 - DEBUG - invalid proxy
+2023-07-14 08:57:10,612 - DEBUG - proxy is valid
+2023-07-14 08:57:22,266 - DEBUG - 204
+2023-07-14 08:57:36,255 - DEBUG - 204
+2023-07-14 08:59:01,753 - DEBUG - I/O operation on closed file.
+2023-07-14 09:01:00,531 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 09:01:06,110 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 09:01:06,635 - DEBUG - Путь в норме
+2023-07-14 09:01:07,147 - DEBUG - Кол-во почт в программе: 41
+2023-07-14 09:01:07,649 - DEBUG - Кол-во имен в session_names: 41
+2023-07-14 09:01:08,429 - DEBUG - Start work
+2023-07-14 09:01:08,436 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 09:01:08,970 - DEBUG - use config_browser
+2023-07-14 09:01:08,970 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 09:01:10,133 - DEBUG - proxy is valid
+2023-07-14 09:01:22,711 - DEBUG - 204
+2023-07-14 09:01:38,029 - DEBUG - 204
+2023-07-14 09:02:05,973 - DEBUG - Message: Could not locate element with visible text: Санкт-Петербург; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+
+2023-07-14 09:02:16,308 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 09:02:19,771 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 09:02:20,283 - DEBUG - Путь в норме
+2023-07-14 09:02:20,790 - DEBUG - Кол-во почт в программе: 40
+2023-07-14 09:02:21,291 - DEBUG - Кол-во имен в session_names: 40
+2023-07-14 09:02:25,214 - DEBUG - Start work
+2023-07-14 09:02:25,229 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 09:02:25,789 - DEBUG - use config_browser
+2023-07-14 09:02:25,789 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 09:02:32,630 - DEBUG - proxy is valid
+2023-07-14 09:02:45,048 - DEBUG - 204
+2023-07-14 09:03:01,194 - DEBUG - 204
+2023-07-14 09:03:44,696 - DEBUG - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Введите номер телефона']"}
+  (Session info: chrome=114.0.5735.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF7189D7192+118162]
+	(No symbol) [0x00007FF718934AF2]
+	(No symbol) [0x00007FF7187EFA85]
+	(No symbol) [0x00007FF71882C391]
+	(No symbol) [0x00007FF71882C59C]
+	(No symbol) [0x00007FF718863447]
+	(No symbol) [0x00007FF718849D2F]
+	(No symbol) [0x00007FF7188610E3]
+	(No symbol) [0x00007FF718849AC3]
+	(No symbol) [0x00007FF718821A88]
+	(No symbol) [0x00007FF718822BE4]
+	GetHandleVerifier [0x00007FF718D60CA2+3827874]
+	GetHandleVerifier [0x00007FF718D6D63C+3879484]
+	GetHandleVerifier [0x00007FF718D662F5+3849973]
+	GetHandleVerifier [0x00007FF718B065D5+1360341]
+	(No symbol) [0x00007FF7189401F8]
+	(No symbol) [0x00007FF71893C014]
+	(No symbol) [0x00007FF71893C10C]
+	(No symbol) [0x00007FF71892C478]
+	BaseThreadInitThunk [0x00007FFC58BA26AD+29]
+	RtlUserThreadStart [0x00007FFC5A52A9F8+40]
+
+2023-07-14 09:05:51,484 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 09:05:54,165 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 09:05:54,688 - DEBUG - Путь в норме
+2023-07-14 09:05:55,211 - DEBUG - Кол-во почт в программе: 39
+2023-07-14 09:05:55,714 - DEBUG - Кол-во имен в session_names: 39
+2023-07-14 09:05:56,216 - DEBUG - Start work
+2023-07-14 09:05:56,226 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 09:05:56,749 - DEBUG - use config_browser
+2023-07-14 09:05:56,749 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 09:05:58,309 - DEBUG - proxy is valid
+2023-07-14 09:06:10,473 - DEBUG - 204
+2023-07-14 09:06:25,309 - DEBUG - 204
+2023-07-14 09:07:08,046 - DEBUG - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Введите номер телефона']"}
+  (Session info: chrome=114.0.5735.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF7189D7192+118162]
+	(No symbol) [0x00007FF718934AF2]
+	(No symbol) [0x00007FF7187EFA85]
+	(No symbol) [0x00007FF71882C391]
+	(No symbol) [0x00007FF71882C59C]
+	(No symbol) [0x00007FF718863447]
+	(No symbol) [0x00007FF718849D2F]
+	(No symbol) [0x00007FF7188610E3]
+	(No symbol) [0x00007FF718849AC3]
+	(No symbol) [0x00007FF718821A88]
+	(No symbol) [0x00007FF718822BE4]
+	GetHandleVerifier [0x00007FF718D60CA2+3827874]
+	GetHandleVerifier [0x00007FF718D6D63C+3879484]
+	GetHandleVerifier [0x00007FF718D662F5+3849973]
+	GetHandleVerifier [0x00007FF718B065D5+1360341]
+	(No symbol) [0x00007FF7189401F8]
+	(No symbol) [0x00007FF71893C014]
+	(No symbol) [0x00007FF71893C10C]
+	(No symbol) [0x00007FF71892C478]
+	BaseThreadInitThunk [0x00007FFC58BA26AD+29]
+	RtlUserThreadStart [0x00007FFC5A52A9F8+40]
+
+2023-07-14 09:07:16,372 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 09:07:19,074 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 09:07:19,585 - DEBUG - Путь в норме
+2023-07-14 09:07:20,093 - DEBUG - Кол-во почт в программе: 38
+2023-07-14 09:07:20,594 - DEBUG - Кол-во имен в session_names: 38
+2023-07-14 09:07:22,261 - DEBUG - Start work
+2023-07-14 09:07:22,272 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 09:07:22,803 - DEBUG - use config_browser
+2023-07-14 09:07:22,803 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 09:07:24,529 - DEBUG - proxy is valid
+2023-07-14 09:07:36,748 - DEBUG - 204
+2023-07-14 09:07:52,696 - DEBUG - 204
+2023-07-14 09:39:02,666 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 09:39:20,885 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 09:39:21,401 - DEBUG - Путь в норме
+2023-07-14 09:39:21,908 - DEBUG - Кол-во почт в программе: 37
+2023-07-14 09:39:22,410 - DEBUG - Кол-во имен в session_names: 37
+2023-07-14 09:39:28,152 - DEBUG - Start work
+2023-07-14 09:39:38,628 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 09:39:39,166 - DEBUG - use config_browser
+2023-07-14 09:39:39,166 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 09:39:43,809 - DEBUG - proxy is valid
+2023-07-14 09:39:58,457 - DEBUG - 204
+2023-07-14 09:40:20,904 - DEBUG - 204
+2023-07-14 10:56:20,599 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 10:56:25,693 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 10:56:26,208 - DEBUG - Путь в норме
+2023-07-14 10:56:26,723 - DEBUG - Кол-во почт в программе: 36
+2023-07-14 10:56:27,224 - DEBUG - Кол-во имен в session_names: 36
+2023-07-14 10:56:29,677 - DEBUG - Start work
+2023-07-14 10:56:29,686 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 10:56:30,218 - DEBUG - use config_browser
+2023-07-14 10:56:30,218 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 10:56:32,310 - DEBUG - proxy is valid
+2023-07-14 10:56:44,816 - DEBUG - 204
+2023-07-14 10:56:59,063 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 10:56:59,584 - DEBUG - use config_browser
+2023-07-14 10:56:59,585 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 10:57:02,485 - DEBUG - proxy is valid
+2023-07-14 10:57:09,261 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 10:58:11,338 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 10:58:17,262 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 10:58:17,774 - DEBUG - Путь в норме
+2023-07-14 10:58:18,283 - DEBUG - Кол-во почт в программе: 34
+2023-07-14 10:58:18,784 - DEBUG - Кол-во имен в session_names: 33
+2023-07-14 11:00:06,075 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 11:00:09,653 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 11:00:10,170 - DEBUG - Путь в норме
+2023-07-14 11:00:10,678 - DEBUG - Кол-во почт в программе: 34
+2023-07-14 11:00:11,179 - DEBUG - Кол-во имен в session_names: 34
+2023-07-14 11:00:13,279 - DEBUG - Start work
+2023-07-14 11:00:13,289 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:00:13,831 - DEBUG - use config_browser
+2023-07-14 11:00:13,831 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:00:15,774 - DEBUG - proxy is valid
+2023-07-14 11:00:29,635 - DEBUG - 204
+2023-07-14 11:00:44,093 - DEBUG - 204
+2023-07-14 11:04:35,147 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 11:04:35,669 - DEBUG - Путь в норме
+2023-07-14 11:04:36,180 - DEBUG - Кол-во почт в программе: 33
+2023-07-14 11:04:36,682 - DEBUG - Кол-во имен в session_names: 33
+2023-07-14 11:05:55,254 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 11:05:59,340 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 11:05:59,853 - DEBUG - Путь в норме
+2023-07-14 11:06:00,364 - DEBUG - Кол-во почт в программе: 33
+2023-07-14 11:06:00,865 - DEBUG - Кол-во имен в session_names: 33
+2023-07-14 11:06:01,377 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:06:01,912 - DEBUG - use config_browser
+2023-07-14 11:06:01,912 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:06:04,140 - DEBUG - proxy is valid
+2023-07-14 11:06:17,219 - DEBUG - 204
+2023-07-14 11:06:30,889 - DEBUG - 204
+2023-07-14 11:09:34,783 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 11:09:35,303 - DEBUG - Путь в норме
+2023-07-14 11:09:35,819 - DEBUG - Кол-во почт в программе: 32
+2023-07-14 11:09:36,320 - DEBUG - Кол-во имен в session_names: 32
+2023-07-14 11:09:36,829 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:09:37,364 - DEBUG - use config_browser
+2023-07-14 11:09:37,365 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:09:39,292 - DEBUG - proxy is valid
+2023-07-14 11:09:51,534 - DEBUG - 204
+2023-07-14 11:10:07,528 - DEBUG - 204
+2023-07-14 11:13:39,176 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 11:13:39,691 - DEBUG - Путь в норме
+2023-07-14 11:13:40,201 - DEBUG - Кол-во почт в программе: 31
+2023-07-14 11:13:40,701 - DEBUG - Кол-во имен в session_names: 31
+2023-07-14 11:13:41,229 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:13:41,758 - DEBUG - use config_browser
+2023-07-14 11:13:41,759 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:13:44,232 - DEBUG - proxy is valid
+2023-07-14 11:14:40,407 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 11:14:44,606 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 11:14:45,122 - DEBUG - Путь в норме
+2023-07-14 11:14:45,633 - DEBUG - Кол-во почт в программе: 30
+2023-07-14 11:14:46,134 - DEBUG - Кол-во имен в session_names: 30
+2023-07-14 11:14:46,669 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:14:47,212 - DEBUG - use config_browser
+2023-07-14 11:14:47,212 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:14:49,830 - DEBUG - proxy is valid
+2023-07-14 11:15:02,399 - DEBUG - 204
+2023-07-14 11:15:22,926 - DEBUG - 204
+2023-07-14 11:19:16,776 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 11:19:17,293 - DEBUG - Путь в норме
+2023-07-14 11:19:17,800 - DEBUG - Кол-во почт в программе: 29
+2023-07-14 11:19:18,301 - DEBUG - Кол-во имен в session_names: 29
+2023-07-14 11:19:18,807 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:19:19,332 - DEBUG - use config_browser
+2023-07-14 11:19:19,333 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:19:29,456 - DEBUG - invalid proxy
+2023-07-14 11:19:31,187 - DEBUG - proxy is valid
+2023-07-14 11:19:43,132 - DEBUG - 204
+2023-07-14 11:19:58,028 - DEBUG - 204
+2023-07-14 11:25:46,502 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 11:25:47,016 - DEBUG - Путь в норме
+2023-07-14 11:25:47,545 - DEBUG - Кол-во почт в программе: 28
+2023-07-14 11:25:48,049 - DEBUG - Кол-во имен в session_names: 28
+2023-07-14 11:25:48,555 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:25:49,097 - DEBUG - use config_browser
+2023-07-14 11:25:49,098 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:25:50,217 - DEBUG - proxy is valid
+2023-07-14 11:26:02,061 - DEBUG - 204
+2023-07-14 11:26:16,415 - DEBUG - 204
+2023-07-14 11:26:57,450 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:26:57,972 - DEBUG - use config_browser
+2023-07-14 11:26:57,972 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:26:59,475 - DEBUG - proxy is valid
+2023-07-14 11:27:11,616 - DEBUG - 204
+2023-07-14 11:27:26,262 - DEBUG - 204
+2023-07-14 11:27:51,916 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:27:52,443 - DEBUG - use config_browser
+2023-07-14 11:27:52,443 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:27:53,842 - DEBUG - proxy is valid
+2023-07-14 11:28:05,665 - DEBUG - 204
+2023-07-14 11:28:19,848 - DEBUG - 204
+2023-07-14 11:29:01,830 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:29:02,353 - DEBUG - use config_browser
+2023-07-14 11:29:02,353 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:29:05,205 - DEBUG - proxy is valid
+2023-07-14 11:29:18,390 - DEBUG - 204
+2023-07-14 11:29:34,375 - DEBUG - 204
+2023-07-14 11:30:17,294 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:30:17,816 - DEBUG - use config_browser
+2023-07-14 11:30:17,816 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:30:18,900 - DEBUG - proxy is valid
+2023-07-14 11:30:30,476 - DEBUG - 204
+2023-07-14 11:31:37,899 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:31:38,417 - DEBUG - use config_browser
+2023-07-14 11:31:38,417 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:31:40,169 - DEBUG - proxy is valid
+2023-07-14 11:31:52,245 - DEBUG - 204
+2023-07-14 11:32:06,894 - DEBUG - 204
+2023-07-14 11:32:49,213 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:32:49,735 - DEBUG - use config_browser
+2023-07-14 11:32:49,735 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:32:51,245 - DEBUG - proxy is valid
+2023-07-14 11:33:03,250 - DEBUG - 204
+2023-07-14 11:33:20,284 - DEBUG - 204
+2023-07-14 11:34:24,428 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 11:34:27,571 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 11:34:28,081 - DEBUG - Путь в норме
+2023-07-14 11:34:28,596 - DEBUG - Кол-во почт в программе: 21
+2023-07-14 11:34:29,097 - DEBUG - Кол-во имен в session_names: 21
+2023-07-14 11:34:29,604 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:34:30,126 - DEBUG - use config_browser
+2023-07-14 11:34:30,126 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:34:31,870 - DEBUG - proxy is valid
+2023-07-14 11:34:43,769 - DEBUG - 204
+2023-07-14 11:34:58,469 - DEBUG - 204
+2023-07-14 11:39:26,599 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 11:39:27,109 - DEBUG - Путь в норме
+2023-07-14 11:39:27,618 - DEBUG - Кол-во почт в программе: 20
+2023-07-14 11:39:28,120 - DEBUG - Кол-во имен в session_names: 20
+2023-07-14 11:39:28,626 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:39:29,143 - DEBUG - use config_browser
+2023-07-14 11:39:29,143 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:39:33,521 - DEBUG - proxy is valid
+2023-07-14 11:39:50,429 - DEBUG - 204
+2023-07-14 11:40:09,345 - DEBUG - 204
+2023-07-14 11:45:29,877 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 11:45:30,398 - DEBUG - Путь в норме
+2023-07-14 11:45:30,929 - DEBUG - Кол-во почт в программе: 19
+2023-07-14 11:45:31,443 - DEBUG - Кол-во имен в session_names: 19
+2023-07-14 11:45:31,962 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:45:32,490 - DEBUG - use config_browser
+2023-07-14 11:45:32,490 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:45:34,187 - DEBUG - proxy is valid
+2023-07-14 11:45:47,291 - DEBUG - 204
+2023-07-14 11:46:02,495 - DEBUG - 204
+2023-07-14 11:46:45,059 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:46:45,579 - DEBUG - use config_browser
+2023-07-14 11:46:45,579 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:46:47,454 - DEBUG - proxy is valid
+2023-07-14 11:46:58,956 - DEBUG - 204
+2023-07-14 11:47:13,042 - DEBUG - 204
+2023-07-14 11:47:39,210 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 11:47:39,722 - DEBUG - use config_browser
+2023-07-14 11:47:39,722 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 11:47:40,870 - DEBUG - proxy is valid
+2023-07-14 11:47:52,512 - DEBUG - 204
+2023-07-14 12:00:38,969 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 12:00:46,304 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 12:00:46,814 - DEBUG - Путь в норме
+2023-07-14 12:00:47,319 - DEBUG - Кол-во почт в программе: 16
+2023-07-14 12:00:47,820 - DEBUG - Кол-во имен в session_names: 16
+2023-07-14 12:00:48,350 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 12:00:48,884 - DEBUG - use config_browser
+2023-07-14 12:00:48,885 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 12:00:50,591 - DEBUG - proxy is valid
+2023-07-14 12:01:02,747 - DEBUG - 204
+2023-07-14 12:01:17,820 - DEBUG - 204
+2023-07-14 12:08:24,880 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 12:08:25,389 - DEBUG - Путь в норме
+2023-07-14 12:08:25,898 - DEBUG - Кол-во почт в программе: 15
+2023-07-14 12:08:26,399 - DEBUG - Кол-во имен в session_names: 15
+2023-07-14 12:08:26,906 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 12:08:27,431 - DEBUG - use config_browser
+2023-07-14 12:08:27,431 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 12:08:28,864 - DEBUG - proxy is valid
+2023-07-14 12:09:02,611 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 12:09:05,850 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 12:09:06,360 - DEBUG - Путь в норме
+2023-07-14 12:09:06,866 - DEBUG - Кол-во почт в программе: 14
+2023-07-14 12:09:07,367 - DEBUG - Кол-во имен в session_names: 14
+2023-07-14 12:09:07,893 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 12:09:08,424 - DEBUG - use config_browser
+2023-07-14 12:09:08,424 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 12:09:11,843 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 12:09:14,704 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 12:09:15,214 - DEBUG - Путь в норме
+2023-07-14 12:09:15,721 - DEBUG - Кол-во почт в программе: 13
+2023-07-14 12:09:16,222 - DEBUG - Кол-во имен в session_names: 13
+2023-07-14 12:09:16,733 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 12:09:17,264 - DEBUG - use config_browser
+2023-07-14 12:09:17,264 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 12:09:18,715 - DEBUG - proxy is valid
+2023-07-14 12:09:30,588 - DEBUG - 204
+2023-07-14 12:09:44,749 - DEBUG - 204
+2023-07-14 12:13:08,002 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 12:13:08,515 - DEBUG - Путь в норме
+2023-07-14 12:13:09,026 - DEBUG - Кол-во почт в программе: 12
+2023-07-14 12:13:09,527 - DEBUG - Кол-во имен в session_names: 12
+2023-07-14 12:13:10,034 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 12:13:10,560 - DEBUG - use config_browser
+2023-07-14 12:13:10,560 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 12:13:11,744 - DEBUG - proxy is valid
+2023-07-14 12:17:05,356 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 12:17:09,617 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 12:17:10,132 - DEBUG - Путь в норме
+2023-07-14 12:17:10,638 - DEBUG - Кол-во почт в программе: 11
+2023-07-14 12:17:11,139 - DEBUG - Кол-во имен в session_names: 11
+2023-07-14 12:17:11,646 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 12:17:12,195 - DEBUG - use config_browser
+2023-07-14 12:17:12,195 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 12:17:14,025 - DEBUG - proxy is valid
+2023-07-14 12:17:26,620 - DEBUG - 204
+2023-07-14 12:17:41,940 - DEBUG - 204
+2023-07-14 12:18:33,312 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 12:18:33,831 - DEBUG - Путь в норме
+2023-07-14 12:18:34,341 - DEBUG - Кол-во почт в программе: 10
+2023-07-14 12:18:34,842 - DEBUG - Кол-во имен в session_names: 10
+2023-07-14 12:18:35,366 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 12:18:35,895 - DEBUG - use config_browser
+2023-07-14 12:18:35,895 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 12:18:37,468 - DEBUG - proxy is valid
+2023-07-14 12:18:49,821 - DEBUG - 204
+2023-07-14 12:19:04,977 - DEBUG - 204
+2023-07-14 12:22:12,125 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 12:22:12,633 - DEBUG - Путь в норме
+2023-07-14 12:22:13,159 - DEBUG - Кол-во почт в программе: 9
+2023-07-14 12:22:13,660 - DEBUG - Кол-во имен в session_names: 9
+2023-07-14 12:22:14,185 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 12:22:14,710 - DEBUG - use config_browser
+2023-07-14 12:22:14,710 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 12:22:16,665 - DEBUG - proxy is valid
+2023-07-14 12:22:42,016 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 12:22:45,658 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 12:22:46,168 - DEBUG - Путь в норме
+2023-07-14 12:22:46,675 - DEBUG - Кол-во почт в программе: 8
+2023-07-14 12:22:47,175 - DEBUG - Кол-во имен в session_names: 8
+2023-07-14 12:22:47,682 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 12:22:48,207 - DEBUG - use config_browser
+2023-07-14 12:22:48,208 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 12:22:49,606 - DEBUG - proxy is valid
+2023-07-14 12:23:02,516 - DEBUG - 204
+2023-07-14 12:23:17,120 - DEBUG - 204
+2023-07-14 12:28:19,280 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 12:28:19,786 - DEBUG - Путь в норме
+2023-07-14 12:28:20,292 - DEBUG - Кол-во почт в программе: 7
+2023-07-14 12:28:20,793 - DEBUG - Кол-во имен в session_names: 7
+2023-07-14 12:28:21,299 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 12:28:21,835 - DEBUG - use config_browser
+2023-07-14 12:28:21,836 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 12:28:31,971 - DEBUG - invalid proxy
+2023-07-14 12:28:34,214 - DEBUG - proxy is valid
+2023-07-14 12:28:45,994 - DEBUG - 204
+2023-07-14 12:29:00,486 - DEBUG - 204
+2023-07-14 12:29:23,747 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 12:30:06,998 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-14 12:30:08,872 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 12:30:09,380 - DEBUG - Путь в норме
+2023-07-14 12:30:09,885 - DEBUG - Кол-во почт в программе: 6
+2023-07-14 12:30:10,386 - DEBUG - Кол-во имен в session_names: 6
+2023-07-14 12:30:10,892 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 12:30:11,412 - DEBUG - use config_browser
+2023-07-14 12:30:11,413 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 12:30:13,188 - DEBUG - proxy is valid
+2023-07-14 12:30:25,020 - DEBUG - 204
+2023-07-14 12:30:38,563 - DEBUG - 204
+2023-07-14 12:34:34,364 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 12:34:34,872 - DEBUG - Путь в норме
+2023-07-14 12:34:35,378 - DEBUG - Кол-во почт в программе: 5
+2023-07-14 12:34:35,879 - DEBUG - Кол-во имен в session_names: 5
+2023-07-14 12:34:36,386 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 12:34:36,907 - DEBUG - use config_browser
+2023-07-14 12:34:36,907 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 12:34:38,753 - DEBUG - proxy is valid
+2023-07-14 12:34:50,409 - DEBUG - 204
+2023-07-14 12:35:05,869 - DEBUG - 204
+2023-07-14 12:39:18,688 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 12:39:19,195 - DEBUG - Путь в норме
+2023-07-14 12:39:19,717 - DEBUG - Кол-во почт в программе: 4
+2023-07-14 12:39:20,218 - DEBUG - Кол-во имен в session_names: 4
+2023-07-14 12:39:20,748 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 12:39:21,275 - DEBUG - use config_browser
+2023-07-14 12:39:21,276 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 12:39:24,720 - DEBUG - proxy is valid
+2023-07-14 12:39:36,957 - DEBUG - 204
+2023-07-14 12:39:52,521 - DEBUG - 204
+2023-07-14 12:40:49,275 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 12:40:49,786 - DEBUG - Путь в норме
+2023-07-14 12:40:50,296 - DEBUG - Кол-во почт в программе: 3
+2023-07-14 12:40:50,798 - DEBUG - Кол-во имен в session_names: 3
+2023-07-14 12:40:51,310 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 12:40:51,815 - DEBUG - use config_browser
+2023-07-14 12:40:51,828 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 12:40:53,714 - DEBUG - proxy is valid
+2023-07-14 12:41:06,335 - DEBUG - 204
+2023-07-14 12:41:20,518 - DEBUG - 204
+2023-07-14 12:42:15,764 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-14 12:42:16,271 - DEBUG - Путь в норме
+2023-07-14 12:42:16,779 - DEBUG - Кол-во почт в программе: 2
+2023-07-14 12:42:17,279 - DEBUG - Кол-во имен в session_names: 2
+2023-07-14 12:42:17,796 - DEBUG - Подключение к порту 34999 установлено
+2023-07-14 12:42:18,318 - DEBUG - use config_browser
+2023-07-14 12:42:18,318 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-14 12:42:19,441 - DEBUG - proxy is valid
+2023-07-14 12:42:31,327 - DEBUG - 204
+2023-07-14 12:42:45,616 - DEBUG - 204

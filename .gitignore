@@ -1,0 +1,16 @@
+venv/
+.git/
+.idea/
+__pycache__/
+build/
+build_old/
+dist/
+dist_old/
+/*.exe
+/*.rar
+*.exe
+*.rar
+CapMonsterLib/
+app/res/
+for_test/
+app/invalid sessions/
