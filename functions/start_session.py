@@ -39,7 +39,7 @@ def start_session(group_id):
     email, password, reserve = parse_gmail("res/gmail.xlsx")
 
     group_ids = group_id_list(group_id, port)
-
+    print(f'name_id = {name_id}')
     proxy_path_url = stick(name_id)
 
     proxy_host = "proxy.soax.com"

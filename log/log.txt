@@ -1151,3 +1151,29 @@ port in group_port_mapping[group_id]: True
 2023-07-14 12:42:19,441 - DEBUG - proxy is valid
 2023-07-14 12:42:31,327 - DEBUG - 204
 2023-07-14 12:42:45,616 - DEBUG - 204
+2023-07-19 15:36:46,741 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-19 15:36:49,560 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-19 15:36:49,561 - DEBUG - [Errno 2] No such file or directory: 'res/gmail.xlsx'
+2023-07-19 15:37:04,562 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-19 15:37:04,562 - DEBUG - [Errno 2] No such file or directory: 'res/gmail.xlsx'
+2023-07-19 15:37:56,181 - DEBUG - CONFIG:
+female
+G:\.shortcut-targets-by-id\1iputwP1o-lZbnCzYTKlxuWiyf8XK13me\Dating\Photo base
+europa
+FA009
+True
+
+2023-07-19 15:37:58,169 - DEBUG - ########################### NEW SESSION ###########################
+2023-07-19 15:37:58,723 - DEBUG - Путь в норме
+2023-07-19 15:37:59,286 - DEBUG - Кол-во почт в программе: 716
+2023-07-19 15:37:59,787 - DEBUG - Кол-во имен в session_names: 714
+2023-07-19 15:38:00,296 - DEBUG - Подключение к порту 35000 установлено
+2023-07-19 15:38:00,940 - DEBUG - group_id in group_port_mapping: True
+port in group_port_mapping[group_id]: True
+2023-07-19 15:38:02,118 - DEBUG - proxy is valid
